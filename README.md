@@ -1,2 +1,2 @@
-# ev-slot-booking
+# EV-slot-booking
 using backend mysql workbench
